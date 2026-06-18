@@ -1,0 +1,3 @@
+Coloque aqui as fotos que serão usadas na galeria.
+Nomes esperados no index.html: foto1.jpg, foto2.jpg, foto3.jpg, foto4.jpg, foto5.jpg, foto6.jpg.
+Se quiser usar outros nomes, altere a lista const photos no final do index.html.
